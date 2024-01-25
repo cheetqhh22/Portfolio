@@ -10,16 +10,20 @@
 ## ABOUT ME
 
 ## TECH SKILLS
-- **Test Management Tools:** Jira
-- **Performance Testing:** Apache JMeter
-- **API Testing:** Postman
-- **Automation Testing:** Selenium IDE
-- **Software Development:** Agile Methodology, Scrum, Kanban
-- **Programming Languages:** Python, JavaScript
-- **Web Development:** HTML, CSS, React.js
-- **Database Management:** SQL, MySQL
-- **Version Control:** Github
-- **Other:** Trello
+- **Test case design**
+- **Manual testing**
+- **API testing**
+- **Basic automation testing**
+- **Database Management**
+  - SQL
+- **Programming Languages**
+  - Python
+  - JavaScript
+- **Web Development**
+  - HTML
+  - CSS
+  - React.js
+
 
 ## SOFT SKILLS
 👪Teamwork
@@ -38,7 +42,13 @@
 
 ⌚Time management
 
-## TECH STACKS
+## TECH STACKS & TOOLS
+- **Test Management Tools:** Jira
+- **Performance Testing:** Apache JMeter
+- **API Testing:** Postman
+- **Automation Testing:** Selenium IDE, Playwright, Robot Framework
+- **Version Control:** Git, Github
+- **Other:** Trello
 
 ## PROJECTS
 ### [Notes App](https://practice.expandtesting.com/notes/app/) project

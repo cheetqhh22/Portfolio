@@ -8,7 +8,34 @@
 - [COURSES](#courses)
   
 ## ABOUT ME
+
 ## TECH SKILLS
+#### Test Management Tools
+- Jira
+#### Performance Testing
+- Apache JMeter
+#### API Testing
+- Postman
+#### Automation Testing
+- Selenium IDE
+#### Software Development
+- Agile Methodology
+- Scrum
+- Kanban
+#### Programming Languages
+- Python
+- JavaScript
+#### Web Development
+- HTML
+- CSS
+- React.js
+#### Database Management
+- SQL
+- MySQL
+#### Version Control
+- Github
+#### Other
+- Trello
 
 ## SOFT SKILLS
 👪Teamwork
@@ -30,7 +57,6 @@
 ## TECH STACKS
 
 ## PROJECTS
-
 ### [Notes App](https://practice.expandtesting.com/notes/app/) project
 
 #### Test Scenarios
@@ -53,7 +79,7 @@
 ---
 ### [Trello REST API](https://developer.atlassian.com/cloud/trello/rest/) project
 - **API Testing** with **Postman**
-- [Trello REST API Plan](https://docs.google.com/spreadsheets/d/188aKEo7--xPpP2VQ3BDV6y2ak1XwadR5QQayPZdrbRc/edit?usp=sharing)
+- [Trello REST API Plan](https://docs.google.com/spreadsheets/d/188aKEo7--xPpP2VQ3BDV6y2ak1XwadR5QQayPZdrbRc/edit?usp=sharing) - Google Sheets
 - [Example of Trello Rest API Project Screenshots](https://drive.google.com/drive/folders/1qXTmryGoXB6fXMur6nS7P4p6x8Min4R_?usp=sharing)
 ### [REQRES](https://reqres.in/) project
 - **API Testing** with **Postman**

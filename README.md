@@ -3,7 +3,7 @@
 - [ABOUT ME](#about-me)
 - [TECH SKILLS](#tech-skills)
 - [SOFT SKILLS](#soft-skills)
-- [TECH STACKS](#tech-stacks)
+- [TECH STACKS](#tech-stacks-&-tools)
 - [PROJECTS](#projects)
 - [COURSES](#courses)
   
@@ -46,7 +46,7 @@
 - **Test Management Tools:** Jira
 - **Performance Testing:** Apache JMeter
 - **API Testing:** Postman
-- **Automation Testing:** Selenium IDE, Playwright, Robot Framework
+- **Automation Testing:** Selenium IDE
 - **Version Control:** Git, Github
 - **Other:** Trello
 

@@ -71,6 +71,7 @@
 💟[Notes App test report](https://docs.google.com/document/d/1HTiUiiOlxz94BtNfB1diQPEBfZ8ocA94pdwIOcUnJI0/edit?usp=sharing) - Google Docs
 
 ---
+### 📁[Project Repository: API Testing Portfolio](https://github.com/cheetqhh22/API-Testing-Portfolio)
 ### [Trello REST API](https://developer.atlassian.com/cloud/trello/rest/) project
 - **API Testing** with **Postman**
 - [Trello REST API Plan](https://docs.google.com/spreadsheets/d/188aKEo7--xPpP2VQ3BDV6y2ak1XwadR5QQayPZdrbRc/edit?usp=sharing) - Google Sheets

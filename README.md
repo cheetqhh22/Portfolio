@@ -10,32 +10,16 @@
 ## ABOUT ME
 
 ## TECH SKILLS
-#### Test Management Tools
-- Jira
-#### Performance Testing
-- Apache JMeter
-#### API Testing
-- Postman
-#### Automation Testing
-- Selenium IDE
-#### Software Development
-- Agile Methodology
-- Scrum
-- Kanban
-#### Programming Languages
-- Python
-- JavaScript
-#### Web Development
-- HTML
-- CSS
-- React.js
-#### Database Management
-- SQL
-- MySQL
-#### Version Control
-- Github
-#### Other
-- Trello
+- **Test Management Tools:** Jira
+- **Performance Testing:** Apache JMeter
+- **API Testing:** Postman
+- **Automation Testing:** Selenium IDE
+- **Software Development:** Agile Methodology, Scrum, Kanban
+- **Programming Languages:** Python, JavaScript
+- **Web Development:** HTML, CSS, React.js
+- **Database Management:** SQL, MySQL
+- **Version Control:** Github
+- **Other:** Trello
 
 ## SOFT SKILLS
 👪Teamwork

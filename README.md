@@ -3,12 +3,14 @@
 - [ABOUT ME](#about-me)
 - [TECH SKILLS](#tech-skills)
 - [SOFT SKILLS](#soft-skills)
-- [TECH STACKS & TOOLS](#tech-stacks-&-tools)
+- [TECH STACKS and TOOLS](#tech-stacks-and-tools)
 - [PROJECTS](#projects)
 - [COURSES](#courses)
   
 ## ABOUT ME
 
+### [MY LINKEDIN PROFILE](https://www.linkedin.com/in/chidchanok-sattayavinit-315063236/) 
+  
 ## TECH SKILLS
 - **Test case design**
 - **Manual testing**
@@ -42,7 +44,7 @@
 
 ⌚Time management
 
-## TECH STACKS & TOOLS
+## TECH STACKS and TOOLS
 - **Test Management Tools:** Jira
 - **Performance Testing:** Apache JMeter
 - **API Testing:** Postman

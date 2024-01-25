@@ -3,7 +3,7 @@
 - [ABOUT ME](#about-me)
 - [TECH SKILLS](#tech-skills)
 - [SOFT SKILLS](#soft-skills)
-- [TECH STACKS & TOOLS](#tech-stacks-&-tools)
+- [TECH STACKS and TOOLS](#tech-stacks-and-tools)
 - [PROJECTS](#projects)
 - [COURSES](#courses)
   
@@ -44,7 +44,7 @@
 
 ⌚Time management
 
-## TECH STACKS & TOOLS
+## TECH STACKS and TOOLS
 - **Test Management Tools:** Jira
 - **Performance Testing:** Apache JMeter
 - **API Testing:** Postman

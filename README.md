@@ -3,7 +3,7 @@
 - [ABOUT ME](#about-me)
 - [TECH SKILLS](#tech-skills)
 - [SOFT SKILLS](#soft-skills)
-- [TECH STACKS & TOOLS](#tech-stacks-and-tools)
+- [TECH STACKS & TOOLS](#tech-stacks-&-tools)
 - [PROJECTS](#projects)
 - [COURSES](#courses)
   

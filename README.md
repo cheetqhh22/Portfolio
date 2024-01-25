@@ -82,6 +82,10 @@
 - **API Testing** with **Postman**
 - [Example of REQRES Project Screenshots](https://drive.google.com/drive/folders/1ZL0MI3jvd-qAEx7DloJ78UcIk0VU_1uJ?usp=sharing)
 
+---
+### [Restaurant Website](https://github.com/cheetqhh22/restaurant-web) Project
+- A responsive website built with HTML and CSS
+- Live DEMO [click here](https://cheetqhh22.github.io/restaurant-web/) 🚀
 ## COURSES
 #### July 2023
 ✅[Essential SQL for Everyone - borntoDev](https://drive.google.com/file/d/1tFleAo3Q8Lcro0SyzhJEtZV7H__FlN8b/view?usp=sharing)

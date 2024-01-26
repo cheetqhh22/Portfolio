@@ -20,7 +20,7 @@ Looking for an opportunity as a software tester. 🚀💗✨
 - **Test case design**
 - **Manual testing**
 - **API testing**
-- **Basic automation testing**
+- **Basic automated testing**
 - **Database Management**
   - SQL
 - **Programming Languages**
@@ -53,7 +53,7 @@ Looking for an opportunity as a software tester. 🚀💗✨
 - **Test Management Tools:** Jira
 - **Performance Testing:** Apache JMeter
 - **API Testing:** Postman
-- **Automation Testing:** Selenium IDE
+- **Automated Testing:** Selenium IDE
 - **Version Control:** Git, Github
 - **Other:** Trello
 

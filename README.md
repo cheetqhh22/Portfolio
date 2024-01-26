@@ -8,6 +8,11 @@
 - [COURSES](#courses)
   
 ## ABOUT ME
+The recent detail-oriented graduate engineer from Thammasat University, who is
+constantly eager to learn new skills to advance her career with a growth mindset. Quick
+learner with analytical and problem-solving skills. Possess the ability to work together
+as a team and listen to other people's perspectives with respect and understanding.
+Looking for an opportunity as a software tester. 🚀💗✨
 
 ### [MY LINKEDIN PROFILE](https://www.linkedin.com/in/chidchanok-sattayavinit-315063236/) 
   

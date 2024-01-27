@@ -106,5 +106,5 @@ I am presently acquiring skills in automated testing using the Robot Framework.�
 ✅[HTML and CSS in depth - Coursera](https://drive.google.com/file/d/1q3n-MsuLJS78rCKN2brpiwzerDxVJIl2/view?usp=drive_link)
 
 ✅[React Basics - Coursera](https://drive.google.com/file/d/1lAqsmEh4nzC7AR_4OJGLnqUPGT7LyDQx/view?usp=drive_link)
-#### January 2023
+#### January 2024
 ✅[The Complete 2024 Software Testing Bootcamp - Udemy]()

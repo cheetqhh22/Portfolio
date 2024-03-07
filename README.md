@@ -22,7 +22,8 @@ I am presently acquiring skills in automated testing using the Robot Framework.�
 - **Test case design**
 - **Manual testing**
 - **API testing**
-- **Basic automated testing**
+- **Automated testing**
+  - Selenium
 - **Database Management**
   - SQL
 - **Programming Languages**
@@ -55,7 +56,7 @@ I am presently acquiring skills in automated testing using the Robot Framework.�
 - **Test Management Tools:** Jira
 - **Performance Testing:** Apache JMeter
 - **API Testing:** Postman
-- **Automated Testing:** Selenium IDE
+- **Automated Testing:** Selenium
 - **Version Control:** Git, Github
 - **Other:** Trello
 
@@ -90,6 +91,9 @@ I am presently acquiring skills in automated testing using the Robot Framework.�
 - [Example of REQRES Project Screenshots](https://drive.google.com/drive/folders/1ZL0MI3jvd-qAEx7DloJ78UcIk0VU_1uJ?usp=sharing)
 
 ---
+### 📁[Project Repository: Formy automated testing](https://github.com/cheetqhh22/Formy-automated-testing)
+- test scripts written in Python using Selenium WebDriver for testing the Formy website specifically on the Chrome browser.
+---
 ### [Restaurant Website](https://github.com/cheetqhh22/restaurant-web) Project
 - A responsive website built with HTML and CSS
 - Live DEMO [click here](https://cheetqhh22.github.io/restaurant-web/) 🚀
@@ -107,4 +111,12 @@ I am presently acquiring skills in automated testing using the Robot Framework.�
 
 ✅[React Basics - Coursera](https://drive.google.com/file/d/1lAqsmEh4nzC7AR_4OJGLnqUPGT7LyDQx/view?usp=drive_link)
 #### January 2024
-✅[The Complete 2024 Software Testing Bootcamp - Udemy]()
+✅[The Complete 2024 Software Testing Bootcamp - Udemy](https://drive.google.com/drive/u/3/folders/14yx1Mheqt1RHuXupwEMIyfuju6jno3AD)
+#### February 2024
+✅[Learning REST APIs](https://drive.google.com/drive/u/3/folders/14yx1Mheqt1RHuXupwEMIyfuju6jno3AD)
+
+✅[Test Automation Foundations](https://drive.google.com/drive/u/3/folders/14yx1Mheqt1RHuXupwEMIyfuju6jno3AD)
+#### March 2024
+✅[Learning Selenium](https://drive.google.com/drive/u/3/folders/14yx1Mheqt1RHuXupwEMIyfuju6jno3AD)
+
+✅[Python Automation and Testing](https://drive.google.com/drive/u/3/folders/14yx1Mheqt1RHuXupwEMIyfuju6jno3AD)

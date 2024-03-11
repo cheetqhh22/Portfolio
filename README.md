@@ -14,8 +14,6 @@ learner with analytical and problem-solving skills. Possess the ability to work 
 as a team and listen to other people's perspectives with respect and understanding.
 Looking for an opportunity as a software tester. 🚀💗✨
 
-I am presently acquiring skills in automated testing using the Robot Framework.🤖🙌
-
 ### [MY LINKEDIN PROFILE](https://www.linkedin.com/in/chidchanok-sattayavinit-315063236/) 
   
 ## TECH SKILLS

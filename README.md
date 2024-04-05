@@ -3,21 +3,18 @@
 - [ABOUT ME](#about-me)
 - [TECH SKILLS](#tech-skills)
 - [SOFT SKILLS](#soft-skills)
-- [TECH STACKS and TOOLS](#tech-stacks-and-tools)
 - [PROJECTS](#projects)
 - [COURSES](#courses)
   
 ## ABOUT ME
-The recent detail-oriented graduate engineer from Thammasat University, who is
-constantly eager to learn new skills to advance her career with a growth mindset. Quick
-learner with analytical and problem-solving skills. Possess the ability to work together
-as a team and listen to other people's perspectives with respect and understanding.
-Looking for an opportunity as a software tester. 🚀💗✨
+Detail-oriented Industrial Engineering graduate with strong analytical skills,  eager to continue self-improvement and learn new skills to efficiently fulfill role responsibilities. 🚀💗✨
 
 ### [MY LINKEDIN PROFILE](https://www.linkedin.com/in/chidchanok-sattayavinit-315063236/) 
   
 ## TECH SKILLS
-- **Test case design**
+- **Data Visualization**
+  - Power BI
+- **Microsoft Office**
 - **Manual testing**
 - **API testing**
 - **Automated testing**
@@ -36,27 +33,11 @@ Looking for an opportunity as a software tester. 🚀💗✨
 ## SOFT SKILLS
 👪Teamwork
 
-🌟Problem solving
-
-📈Responsibility
-
-💥Critical thinking
+💥Analytical thinking
 
 🔉Active listening
 
 💡Creativity
-
-💌Adaptability
-
-⌚Time management
-
-## TECH STACKS and TOOLS
-- **Test Management Tools:** Jira
-- **Performance Testing:** Apache JMeter
-- **API Testing:** Postman
-- **Automated Testing:** Selenium
-- **Version Control:** Git, Github
-- **Other:** Trello
 
 ## PROJECTS
 ### [Notes App](https://practice.expandtesting.com/notes/app/) project
